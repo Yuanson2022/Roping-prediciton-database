@@ -4,7 +4,7 @@ This dataset is attached to the article:
 An artificial neural network-based model for roping prediction in aluminum alloy sheet.
 If you use this dataset, please cite it.
 #  --------------------------------------------------------
-Author: Yuanzhe, Hu 
+Author: Yuanzhe, Hu
 Affiliation: State Key Laboratory of Mechanical Systems and Vibration, Shanghai Jiao Tong University
 #  --------------------------------------------------------
 File details: 
