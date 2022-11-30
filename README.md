@@ -1,4 +1,4 @@
-# Roping-prediciton-database
+# Roping-prediciton-supplementary materials
 #  --------------------------------------------------------
 This dataset is attached to the article:
 An artificial neural network-based model for roping prediction in aluminum alloy sheet.
