@@ -15,11 +15,11 @@ Codes available here are in two folders:
 	Euler_FZ.py: Transfer the Euler angles with Bunge convention into one subdomain of Euler space. 
 	
 2- Matlab:
-	Artificial_orientation_map_generation.m (Main code): Generate in-plane orientation maps close to the actual texture distribution with variable components.
+Artificial_orientation_map_generation.m (Main code): Generate in-plane orientation maps close to the actual texture distribution with variable components.
+
+Characteristic_grain_allocation.m: allocate Cube and Goss in the TD/RD plane.
 	
-	Characteristic_grain_allocation.m: allocate Cube and Goss in the TD/RD plane.
-	
-	MTEX (version 5.6.1) is used to generate random orientations in the main code.
+MTEX (version 5.6.1) is used to generate random orientations in the main code.
 
 #  --------------------------------------------------------
 Database availability 
